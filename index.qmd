@@ -5,14 +5,15 @@ format: html
 
 ## Course Lessons
 
--   Intro to Quarto
--   Intro to git and GitHub
--   Cleaning and Wrangling Data
+-   [Intro to Quarto](scripts/intro-quarto.html)
+-   Intro to git and [GitHub](https://github.com)
+-   [Cleaning and Wrangling Data](cleaning & amp; wrangling data.html) 
 
 ## Practice Schedule
 
 -   Practice I
 -   Practice II
+
 
 ```{r}
 
