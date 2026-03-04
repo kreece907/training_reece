@@ -35,7 +35,7 @@ summary(catch_original)
 unique(catch_original$Region)
 
 ## Opens data frame in its own tab to see each row and column of the data (do in console)
-View(catch_original)
+#View(catch_original)
 ```
 
 ## Explore
